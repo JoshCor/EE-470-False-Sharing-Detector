@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+
+# Additions
+
+
+# log files for tool
+logs
+
+false_sharing_benchmark
+
