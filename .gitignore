@@ -46,6 +46,11 @@
 
 # log files for tool
 logs
+pin.log
 
+# the binary for the testing file
 false_sharing_benchmark
+
+
+
 

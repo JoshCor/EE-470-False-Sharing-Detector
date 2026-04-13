@@ -1,3 +1,3 @@
 Pin: pin-3.28-98749-6643ecee5
 Copyright 2002-2023 Intel Corporation.
-E:  Unable to resolve tool path./home/josh/pin/source/tools/FalseSharingDetector/obj-intel64/false_sharing_detector.so. Check tools path and tool extension.
+E:  [tid:152727] unknown option "--version"
