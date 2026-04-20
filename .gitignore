@@ -50,6 +50,7 @@ pin.log
 
 # the binary for the testing file
 false_sharing_benchmark
+simple_benchmark
 
 
 
